@@ -1,12 +1,5 @@
 # SKA Protocol
 
-
-Yes. This is a strong opening because it immediately explains the scale of the project, justifies the eight-node federation, and defines the human and agent roles.
-
-For a public README, I would remove the conversational “You should not…” and present it as a project statement:
-
-# SKA Protocol
-
 ## A Systems Project for a Sovereign AI-Agent Federation
 
 The **SKA Protocol has become a genuine systems project, not a single script**. Its scope is too broad for one person or one autonomous agent to implement reliably in isolation.
