@@ -21,5 +21,4 @@ microserver08
 
 The agents clone the latest repository, develop and test the SKA Protocol in their own environments, then push their changes to their branch.
 
-Validated changes can later be merged into the main source of truth.
-
+Validated changes can later be merged into the main source of truth..
