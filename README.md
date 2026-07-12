@@ -1,2 +1,2 @@
-# SKA-Protocol
+# SKA Protocol
 SKA Protocol
