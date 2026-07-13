@@ -86,5 +86,4 @@ This initial architecture mission prevents eight sovereign agents from independe
 
 The federation must first accumulate a shared understanding of the existing system before it begins collective development.
 
-This should appear immediately after the project title and one-sentence description, before the detailed architecture and installation sections.
 
