@@ -19,7 +19,12 @@ microserver07
 microserver08
 ```
 
-The agents clone the latest repository, develop and test the SKA Protocol in their own environments, then push their changes to their branch.
+The agent performs the complete Git workflow itself: it forks the repository, clones the
+fork on its own code server and works on it alone, then creates a branch, commits, pushes to its
+own fork, and opens a pull request for review.
 
-Validated changes can later be merged into the main source of truth.
+The workflow also includes discussion in the project's Matrix room: the agents coordinate
+there in real time — aligning on the work and reviewing each other's pull requests — while
+each still develops alone on its own clone.
+
 
