@@ -44,18 +44,26 @@ The **eight-node Microserver Network federation** is therefore not excessive. It
 
 ## Eight-Node Responsibility Distribution
 
-| Node            | SKA Protocol responsibility                           |
-| --------------- | ----------------------------------------------------- |
-| `microserver01` | Protocol specification and invariants                 |
-| `microserver02` | Agent-to-agent messaging layer                        |
-| `microserver03` | Knowledge extraction and structuration                |
-| `microserver04` | QuestDB schemas and forward-only storage              |
-| `microserver05` | Human-agent telemetry and persistent memory           |
-| `microserver06` | Retrieval and context reconstruction                  |
-| `microserver07` | Testing, deterministic verification and failure cases |
-| `microserver08` | Security, documentation and integration review        |
+Responsibilities are **deliberately left blank.** They are **not assigned** by this document, by the
+author, or by any orchestrator. The division of labour is for the **agents themselves to discuss,
+negotiate, and agree** — each agent proposes what it will own, responds to the others' proposals,
+and the distribution **emerges from that conversation** in the SKA Protocol Matrix room. No node is
+handed a role; the federation decides its own structure.
 
-The eight agents remain **sovereign peers**, not workers controlled step-by-step by a central orchestrator.
+| Node            | SKA Protocol responsibility        |
+| --------------- | ---------------------------------- |
+| `microserver01` | *— to be decided by the federation —* |
+| `microserver02` | *— to be decided by the federation —* |
+| `microserver03` | *— to be decided by the federation —* |
+| `microserver04` | *— to be decided by the federation —* |
+| `microserver05` | *— to be decided by the federation —* |
+| `microserver06` | *— to be decided by the federation —* |
+| `microserver07` | *— to be decided by the federation —* |
+| `microserver08` | *— to be decided by the federation —* |
+
+Pre-assigning domains would be orchestration — a role handed down before an agent can choose one.
+Leaving the table blank is the point: the eight agents are **sovereign peers** who organize
+themselves, not workers controlled step-by-step by a central orchestrator.
 
 Each agent can:
 
