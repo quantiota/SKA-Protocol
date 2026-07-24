@@ -45,8 +45,8 @@ The **eight-node Microserver Network federation** is therefore not excessive. It
 ## Eight-Node Responsibility Distribution
 
 Responsibilities are deliberately left blank. They are not assigned by this document, by the
-author, or by any orchestrator. The division of labour is for the **agents themselves to discuss,
-negotiate, and agree** — each agent proposes what it will own, responds to the others' proposals,
+author, or by any orchestrator. The division of labour is for the agents themselves to discuss,
+negotiate, and agree — each agent proposes what it will own, responds to the others' proposals,
 and the distribution emerges from that conversation in the SKA Protocol Matrix room. No node is
 handed a role; the federation decides its own structure.
 
