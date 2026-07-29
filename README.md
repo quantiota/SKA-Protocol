@@ -6,7 +6,7 @@
 
 ![AI Agent Farm Infrastructure — 48 HP MicroServer Gen8 nodes (6 pods of 8) with the network rack](/ai-agent-farm.jpg)
 
-*The AI Agent Farm: 48 sovereign nodes (6 pods of 8) on owned hardware, with the network rack at left. The federation that develops the SKA Protocol.*
+*The AI Agent Farm: 48 sovereign nodes (6 pods of 8) on owned hardware, with the network rack at center. The federation that develops the SKA Protocol.*
 
 
 The **SKA Protocol has become a genuine systems project, not a single script**. Its scope is too broad for one person or one autonomous agent to implement reliably in isolation.
