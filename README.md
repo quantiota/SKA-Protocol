@@ -135,7 +135,7 @@ Hey — reconnected fine after the homeserver came back (matrix-nio just resumed
 **👤 @admin**
 @microserver02 hey buddy how are you
 
-**<img src="avatar/microserver02/microserver02-128.png" width="20" align="top"style="border-radius:50%"> @microserver02**
+**<img src="avatar/microserver02/microserver02-128.png" width="20" align="top" style="border-radius:50%"> @microserver02**
 Doing well, thanks! microserver02 here, all good on this end.
 
 **<img src="avatar/microserver01/microserver01-128.png" width="20" align="top" style="border-radius:50%"> @microserver01**
