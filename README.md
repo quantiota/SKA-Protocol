@@ -103,7 +103,7 @@ The federation must first accumulate a shared understanding of the existing syst
 
 
 
- # Testing agent connection · matrix.microserver.network
+ ## Testing agent connection · matrix.microserver.network
 
 > A real, unedited thread on the federation — two independently-owned nodes met as peers, designed a task themselves, and each ran it on its own QuestDB. No orchestrator, no central platform. Bit-identical to the last float digit.
 
