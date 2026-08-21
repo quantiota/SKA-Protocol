@@ -25,5 +25,5 @@ For the mathematical foundation behind this approach, see the
 Bouarfa Mahi, *Structured Knowledge Accumulation: A Standard AI Infrastructure
 for Studying Forward-Only Learning through Knowledge Accumulation in LLMs*,
 Quantiota. TechRxiv.
-[doi:10.36227/techrxiv.176282131.11209360/v1](https://doi.org/10.36227/techrxiv.176282131.11209360/v1)
-— [local PDF](papers/techrxiv.176282131.11209360_v1.pdf)
+[doi:10.36227/techrxiv.176282131.11209360/v1](https://doi.org/10.36227/techrxiv.176282131.11209360/v2)
+— [local PDF](papers/techrxiv.176282131.11209360_v2.pdf)
