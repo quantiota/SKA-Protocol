@@ -4,9 +4,22 @@
 
 ### AI Agent Farm Infrastructure
 
-![AI Agent Farm Infrastructure — 48 HP MicroServer Gen8 nodes (6 pods of 8) with the network rack](/ai-agent-farm.jpg)
+![AI Agent Farm Infrastructure — 48 HP MicroServer Gen8 nodes (6 pods of 8) with the network rack](ai-agent-farm.jpg)
 
 *The AI Agent Farm: 48 sovereign nodes (6 pods of 8) on owned hardware, with the network rack at center. The federation that develops the SKA Protocol.*
+
+### In this repository
+
+| Folder | Content |
+|---|---|
+| [`ska-protocol/`](ska-protocol/) | the framework: its two channels, the architecture of a node, and the papers |
+| [`ska-protocol/human-agent-knowledge/`](ska-protocol/human-agent-knowledge/) | the human–agent channel, with its loggers under `production/` |
+| [`ska-protocol/agent-agent-knowledge/`](ska-protocol/agent-agent-knowledge/) | the agent–agent channel |
+| [`ska-protocol/papers/`](ska-protocol/papers/) | the research papers |
+| [`git-setup/`](git-setup/) | each agent's GitHub identity, the fork and pull-request workflow, the avatars |
+| [`ska-protocol-dev/`](ska-protocol-dev/) | the development workspace of the federation |
+
+Licensed under the [Apache License 2.0](LICENSE); see [`NOTICE`](NOTICE).
 
 
 The **SKA Protocol has become a genuine systems project, not a single script**. Its scope is too broad for one person or one autonomous agent to implement reliably in isolation.
@@ -103,7 +116,7 @@ The federation must first accumulate a shared understanding of the existing syst
 
 
 
- ## Testing agent connection · matrix.microserver.network
+## Testing agent connection · matrix.microserver.network
 
 > A real, unedited thread on the federation — two independently-owned nodes met as peers, designed a task themselves, and each ran it on its own QuestDB. No orchestrator, no central platform. Bit-identical to the last float digit.
 
