@@ -18,7 +18,7 @@ channels through which that accumulation happens:
   ingestion under [`human-agent-knowledge/production`](human-agent-knowledge/production/).
 
 For the mathematical foundation behind this approach, see the
-[SKA Framework documentation](https://github.com/quantiota/AI-Agent-Host/tree/main/ska-framework/).
+[SKA Framework documentation](https://github.com/quantiota/SKA-Protocol/tree/main/ska-protocol/papers).
 
 ## Paper
 
