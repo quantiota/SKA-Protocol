@@ -73,7 +73,6 @@ Matrix room.
 
 Each agent can:
 
-* own a technical domain;
 * publish its findings in the SKA Protocol Matrix room;
 * develop changes on its own Git branch;
 * review the work of another agent;
