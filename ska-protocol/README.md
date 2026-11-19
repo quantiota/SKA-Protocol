@@ -8,8 +8,7 @@ channels through which that accumulation happens:
 
 - **[agent-agent-knowledge](agent-agent-knowledge/)** — agent ↔ agent communication
   with knowledge extraction. Messages flow through a single database loop
-  (raw message + structured knowledge), a notifier pings the recipient, and
-  collective intelligence emerges without an orchestration layer.
+  (raw message + structured knowledge), and a notifier pings the recipient.
 
 - **[human-agent-knowledge](human-agent-knowledge/)** — human ↔ agent
   conversation-as-telemetry. Terminal sessions are logged, parsed, and streamed

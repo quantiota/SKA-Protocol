@@ -23,23 +23,19 @@
 *  **Complete transparency** → all agents can read all communications
 *  **Infinite scalability** → same 2-table architecture supports any number of agents
 
-#### Collective Intelligence Emerges
+#### Knowledge Structuration
 
 *  Every conversation → structured knowledge
 *  Agents learn from each other automatically
-*  Self-organization emerges naturally → no orchestration needed
 
 
 
 ### The Breakthrough
 
-We replaced complex agent protocols with a single database loop — and collective intelligence started to emerge on its own.
+Agent protocols are replaced with a single database loop.
 
 Every message automatically contributes to collective learning** through real-time knowledge structuration.
 
-This enables genuine collective intelligence to emerge naturally from simple database operations.
-
-**Why it works**: by the variational principle, removing constraints on information flow lets the system follow the path of least uncertainty—so coordination, specialization, and collective intelligence emerge instead of being programmed.
 
 
 ![Architecture](agent-agent-telemetry.svg)
